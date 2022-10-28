@@ -74,9 +74,9 @@ SRI KRISHNA COLLEGE OF TECHNOLOGY (SKCT), COIMBATORE
 ## Authors
 
 - [@MANOJKUMAR S](https://github.com/manojmkdev)
-- [@MANIKANDAN P]
+- [@MANIKANDAN P](https://github.com/manikandan2907)
 - [@DIGEESH S](https://github.com/digeesh21)
-- [@DINAKAR CM]
+- [@DINAKAR CM]()
 - [@DINESH A](https://github.com/dineshasokan27)
 
 

@@ -60,13 +60,7 @@ SRI KRISHNA COLLEGE OF TECHNOLOGY (SKCT), COIMBATORE
 - [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-21642-1659786764/tree/main/Pre-Development/Project%20Design%20Phase%20-%20II)
 - [Project Planning](https://github.com/IBM-EPBL/IBM-Project-21642-1659786764/tree/main/Pre-Development/Project%20Planning)
 
-## Tech Stack
 
-**Frontend:** Html+Css+JavaScript
-
-**Backend:** Python, Flask , Docker
-
-**Database:** IBM DB2
 
 
 
